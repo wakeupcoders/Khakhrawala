@@ -1,0 +1,5 @@
+In this there was a issue in slider which is nothing it doesnt allow to scroll vertically up and down.
+Its answer is here :
+https://github.com/OwlCarousel2/OwlCarousel2/pull/2188
+
+https://bootsnipp.com/snippets/R5r9A
